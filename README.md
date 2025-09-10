@@ -1,4 +1,4 @@
-# 🛒 Checkout System – Java 21 (TDD)
+# Checkout System – Java 21 (TDD)
 
 This is a **Java 21** checkout system implemented with **Test-Driven Development (TDD)**.  
 The shop sells only **Apples** and **Oranges** with special offers applied.
@@ -49,7 +49,7 @@ This project was built using the **Red-Green-Refactor** TDD cycle:
 
 ---
 
-## ▶️ How to Run
+## SHow to Run
 
 ### Run Tests
 ```bash
